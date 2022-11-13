@@ -1,11 +1,6 @@
-- 👋 Hi, I’m Prince Moses
-- 👀 I’m interested having fellow developers around me
-- 🌱 I’m currently learning Node.js, aspirant AI Engineering.
-- 💞️ I’m looking to collaborate on proects to explore my career
-- 📫 Hi, you can reach me via;
-- Twitter; @princecodes4115
-- Instagram;@Princecodes
-- Linkedin;@Prince Moses
+- 👋 Hi, I’m Moses, just call me Moseley 
+- 👀 Believing the power of technology, world transformation
+- 🌱 Am passionate, aspirant AI Engineer
 
 
   JUST BE SENSITIVE 
