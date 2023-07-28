@@ -82,6 +82,8 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Football"]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princecodes4115&hide_progress=true)
 
 <a href="https://github.com/Princecodes4115/github-readme-stats">
+
+
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Princecodes4115&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=dark" />
 </a>
 <a href="https://github.com/Princecodes4115/convoychat">
@@ -89,4 +91,9 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Football"]
 </a>
 
 ***
+![Snake animation](https://github.com/Princecodes4115/Princecodes4115/blob/output/github-contribution-grid-snake.svg)
 
+
+  [![Your GitHub Profile](https://img.shields.io/badge/GitHub-Profile-brightgreen?style=flat&logo=github)](https://github.com/Princecodes4115)
+[![Your Website](https://img.shields.io/badge/Website-YourWebsiteURL-brightgreen?style=flat&logo=web)](https://your-website-url.com)
+[![GitHub Gists](https://img.shields.io/badge/GitHub%20Gists-Profile-yellow?style=flat&logo=github)](https://gist.github.com/Princecodes4115)
