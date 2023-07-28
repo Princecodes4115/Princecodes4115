@@ -1,0 +1,32 @@
+name: Snake Animation
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install git+https://github.com/Platane/snk.git
+
+      - name: Generate Snake SVG
+        run: snk
+
+      - name: Commit and Push changes
+        run: |
+          git config user.name "Princecodes4115"
+          git config user.email "codewithprince.com@gmail.com"
+          git add .
+          git commit -m "Update Snake SVG"
+          git push
