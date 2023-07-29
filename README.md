@@ -5,17 +5,17 @@
 <div align="center">
   <a href="https://www.instagram.com/moseley_dev/">
   <img src="https://github.com/Princecodes4115/alx-low_level_programming/assets/101392395/e61ef8c3-d074-43dc-899f-4c94877ac487" alt="Image Alt Text" width="50" height="50">
-<a/>
+</a>
 
 <a href="https://www.linkedin.com/in/akachi-nwachukwu-557a63233/">
   <img src="https://github.com/Princecodes4115/alx-low_level_programming/assets/101392395/7b20b5ed-eaa1-41e1-a882-f2f26a6c3c83" alt="Image Alt Text" width="50" height="50">
-<a/>
+</a>
 <a href="https://twitter.com/Princecodes4115">
   <img src="https://github.com/Princecodes4115/alx-low_level_programming/assets/101392395/0d570cf1-08a6-431c-b5a6-1f6db0427f9b" alt="Image Alt Text" width="50" height="50">
-<a/>
+</a>
 <a href="https://twitter.com/Princecodes4115">
   <img src="https://github.com/Princecodes4115/alx-low_level_programming/assets/101392395/88a50376-94a6-4a5b-b877-10e9c9d58bbd" alt="Image Alt Text" width="50" height="50">
-<a/>
+</a>
 
 </div>
 
