@@ -33,10 +33,10 @@ education:
   [
     "Self-Taught Developer and Designer",
     "ALX SE Certified Software Engineer",
-    "Andela + Meta React Developer(in progress) ",
+    "Andela + Meta React Developer ",
     "Bachelor's in Computer Science",
   ]
-company: Continus Inc.
+currrent company: Calm Global Information Technology.
 
 fields_of_interests:
   [
@@ -48,12 +48,12 @@ fields_of_interests:
 technical_background:
   [
     "Role - Frontend Developer",
-    "Intern - Frontedn Devloper @ Mend Inc.",
+    "Intern - Frontedn Devloper @ Calm Global Information Technology.",
     "Self_Taugt - Frontend Developer",
   ]
   
-currently_learning: ["Expres js,  Nodejs and MongoDP"]
-2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+currently_learning: ["Dockers,  AWS"]
+2024 Goals: ["Create 40+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Football"]
 ```
 
